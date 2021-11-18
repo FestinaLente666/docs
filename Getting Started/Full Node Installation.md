@@ -4,8 +4,6 @@
 
 Kaspad is a reference full node Kaspa implementation written in Go (golang).
 
-This project is currently under active development and is in a pre-Alpha state. Some things still don&#39;t work and APIs are far from finalized. The code is provided for reference only.
-
 ## Requirements
 
 Go 1.16 or later.
